@@ -1,322 +1,604 @@
-group,PLAYLIST TERBARU
-avi,SUBSCRIBE TiviMe YOUTUBE,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="PLAYLIST TERBARU",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
 
-group,PLAYLIST INI JANGAN DIJUAL
-avi,SUBSCRIBE TiviMe YOUTUBE,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="avi" group-title="PLAYLIST INI JANGAN DIJUAL",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
 
-group,TV Lokal
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,RCTI,https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-gtv.il,GTV,https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-ext,MNC TV,https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-ext,iNews,https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-ext,Trans TV,https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-ext,Trans7,https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-ext,TVONE,https://av-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-ext,ANTV,https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-NetTV.hr,NET,https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-Metro.pl,Metro TV,https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-rtvint,RTV,https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-ext,Kompas TV,https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-ext,TVRI Nasional,https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-bTV.bg,BTV,https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-ext,MNC News,https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-ext,RCTI,https://rcti-linier.rctiplus.id/RCTI2022-avc1_6673200=7-mp4a_96000=2.m3u8
-gtv.il,GTV,https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
-ext,MNC TV,https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
-ext,iNews,https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
-ext,TRANS7,https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
-ext,TRANS TV,https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-ext,Indosiar,http://rr2.dens.tv/s/s04/index.m3u8
-NetTV.hr,NET,http://rr2.dens.tv/s/s08/index.m3u8
-ext,SCTV,http://rr2.dens.tv/s/s03/index.m3u8
-ext,tvone,http://rr2.dens.tv/s/s105/index.m3u8
-ext,TVRI Nasional,http://rr2.dens.tv/s/s11/index.m3u8
-ext,Kompas TV,http://rr2.dens.tv/s/s104/index.m3u8
-Metro.pl,Metro TV,http://rr.dens.tv/h/h12/index.m3u8
-ext,ANTV,http://rr2.dens.tv/s/s07/index.m3u8
-ext,Moji,http://210.210.155.35/qwr9ew/s/s41/01.m3u8
-ext,CNN INDONESIA,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-ext,CNBC INDONESIA,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-ext,Magna Channel,https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
-ext,Garuda TV,https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-ext,Nusantara TV,https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-ext,ElShinta TV,http://rr2.dens.tv/s/s10/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="TV Lokal",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",RCTI
+https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:0 tvg-id="gtv.il" group-title="TV Lokal",GTV
+https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",MNC TV
+https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",iNews
+https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",Trans TV
+https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",Trans7
+https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",TVONE
+https://av-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",ANTV
+https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:0 tvg-id="NetTV.hr" group-title="TV Lokal",NET
+https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:0 tvg-id="Metro.pl" group-title="TV Lokal",Metro TV
+https://av-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+#EXTINF:0 tvg-id="rtvint" group-title="TV Lokal",RTV
+https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",Kompas TV
+https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",TVRI Nasional
+https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF:0 tvg-id="bTV.bg" group-title="TV Lokal",BTV
+https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",MNC News
+https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",RCTI
+https://rcti-linier.rctiplus.id/RCTI2022-avc1_6673200=7-mp4a_96000=2.m3u8
+#EXTINF:0 tvg-id="gtv.il" group-title="TV Lokal",GTV
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",MNC TV
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",iNews
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",Indosiar
+http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:0 tvg-id="NetTV.hr" group-title="TV Lokal",NET
+http://rr2.dens.tv/s/s08/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",SCTV
+http://rr2.dens.tv/s/s03/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",tvone
+http://rr2.dens.tv/s/s105/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",TVRI Nasional
+http://rr2.dens.tv/s/s11/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",Kompas TV
+http://rr2.dens.tv/s/s104/index.m3u8
+#EXTINF:0 tvg-id="Metro.pl" group-title="TV Lokal",Metro TV
+http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",Moji
+http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Lokal",ElShinta TV
+http://rr2.dens.tv/s/s10/index.m3u8
 
-group,Movies & Hiburan
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-AXN.bg,AXN,https://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-ext,Celestial Classic Movies,https://av-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-ext,Celestial Movies,https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-ext,CinemaWorld,https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-Cinemax.bg,Cinemax,https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-ext,FMN,https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-HBO.bg,HBO,https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-Hbofamily.br,HBO Family,https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-HBOHits.in,HBO Hits,https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-HBOSignature.mx,HBO Signature,https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-ext,HITS Movies,https://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-WarnerHD.mx,Warner TV,https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-Lifetime.uk,Lifetime,https://av-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-galaxy,Galaxy,https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-ext,Galaxy Premium,https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-SkyCinemaHits.de,HITS,https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-ext,Thrill,https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-TVN.pl,TVN,https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-ext,TVN Movies,https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-ext,Zee Bioskop,https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-One.mt,ONE,https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-Kix.uk,KIX,https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-ext,Indonesia Movie Channels,https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-ext,Celestial Movies,http://rr1.dens.tv/h/h14/index.m3u8
-ext,CinemaWorld,http://rr1.dens.tv/h/h04/index.m3u8
-ext,Celestial Classic Movies,http://rr2.dens.tv/s/s31/index.m3u8
-SkyCinemaHits.de,Hits,http://rr1.dens.tv/h/h37/index.m3u8
-ext,Hits Movies,http://rr1.dens.tv/h/h38/index.m3u8
-Kix.uk,KIX,http://rr1.dens.tv/h/h07/index.m3u8
-ext,K+,http://rr.dens.tv/h/h08/index.m3u8
-ext,My Cinema,http://rr.dens.tv/h/h192/index.m3u8
-ext,My Cinema Asia,http://rr.dens.tv/h/h193/index.m3u8
-ext,My Cinema Europe,http://rr.dens.tv/h/h18/index.m3u8
-ext,My Family Channel,http://rr.dens.tv/h/h194/index.m3u8
-ext,Rock Entertainment,http://rr1.dens.tv/h/h16/index.m3u8
-ext,Rock Extreme,http://rr1.dens.tv/h/h15/index.m3u8
-ext,Thrill,http://rr2.dens.tv/s/s34/index.m3u8
-ext,TVN Movies,http://rr1.dens.tv/h/h21/index.m3u8
-TVN.pl,TVN,http://rr1.dens.tv/h/h20/index.m3u8
-ext,Zee Bioskop,http://rr2.dens.tv/s/s32/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Movies & Hiburan",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="AXN.bg" group-title="Movies & Hiburan",AXN
+https://av-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Celestial Classic Movies
+https://av-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Celestial Movies
+https://av-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",CinemaWorld
+https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+#EXTINF:0 tvg-id="Cinemax.bg" group-title="Movies & Hiburan",Cinemax
+https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",FMN
+https://av-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#EXTINF:0 tvg-id="HBO.bg" group-title="Movies & Hiburan",HBO
+https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Movies & Hiburan",HBO Family
+https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#EXTINF:0 tvg-id="HBOHits.in" group-title="Movies & Hiburan",HBO Hits
+https://av-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Movies & Hiburan",HBO Signature
+https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",HITS Movies
+https://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Movies & Hiburan",Warner TV
+https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Movies & Hiburan",Lifetime
+https://av-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#EXTINF:0 tvg-id="galaxy" group-title="Movies & Hiburan",Galaxy
+https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Galaxy Premium
+https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="Movies & Hiburan",HITS
+https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Thrill
+https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:0 tvg-id="TVN.pl" group-title="Movies & Hiburan",TVN
+https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",TVN Movies
+https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Zee Bioskop
+https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:0 tvg-id="One.mt" group-title="Movies & Hiburan",ONE
+https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:0 tvg-id="Kix.uk" group-title="Movies & Hiburan",KIX
+https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Indonesia Movie Channels
+https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Celestial Movies
+http://rr1.dens.tv/h/h14/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",CinemaWorld
+http://rr1.dens.tv/h/h04/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Celestial Classic Movies
+http://rr2.dens.tv/s/s31/index.m3u8
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="Movies & Hiburan",Hits
+http://rr1.dens.tv/h/h37/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Hits Movies
+http://rr1.dens.tv/h/h38/index.m3u8
+#EXTINF:0 tvg-id="Kix.uk" group-title="Movies & Hiburan",KIX
+http://rr1.dens.tv/h/h07/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",K+
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",My Cinema
+http://rr.dens.tv/h/h192/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",My Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Rock Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Rock Extreme
+http://rr1.dens.tv/h/h15/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Thrill
+http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",TVN Movies
+http://rr1.dens.tv/h/h21/index.m3u8
+#EXTINF:0 tvg-id="TVN.pl" group-title="Movies & Hiburan",TVN
+http://rr1.dens.tv/h/h20/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan",Zee Bioskop
+http://rr2.dens.tv/s/s32/index.m3u8
 
-group,Anak² & Kartun
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,Baby TV Asia,https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
-ext,Besmart,https://av-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
-Boomerang.uk,Boomerang,https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-CartoonNetwork.uk,Cartoon Network,https://av-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-CBeebies.uk,CBeebies,https://av-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-ext,Kids TV,https://av-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-ext,Miao Mi,https://av-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
-NickJunior.uk,Nick Jr,https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-Nickelodeon.uk,Nickelodeon,https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-ext,My Kidz,http://rr.dens.tv/h/h191/index.m3u8
-ext,Biznet Kids,https://bit.ly/3MIB23q
-ext,LEGO CHANNEL,https://legochannel-roku.amagi.tv/playlist.m3u8
-ext,LEGO TOONS,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-ext,SuperToons TV,https://tinyurl.com/SuperToons
-ext,HappyKids,https://happykids-roku.amagi.tv/playlist404pl.m3u8
-ext,HappyKids Junior,https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
-ext,KidsFlix,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-ext,Toon Googles,https://tinyurl.com/TiviMe-ToonGoogles
-ext,Moonbug Kids,https://moonbug-rokuus.amagi.tv/playlist.m3u8
-ext,Kids Pang TV,https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=JoNYGj1bF5swTq531QQg&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-ext,No name,https://cdn.us195.jpnettv.live/jptv/disney_channel/playlist.m3u8
-ext,No name,https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
-ext,TAYO TV,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
-ext,Zoo Moo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-ext,Rakuten TV Family,https://e7934a8802cc472f957e8cb4adb933e4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenFamily/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Anak² & Kartun",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Baby TV Asia
+https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Besmart
+https://av-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Anak² & Kartun",Boomerang
+https://av-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Anak² & Kartun",Cartoon Network
+https://av-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Anak² & Kartun",CBeebies
+https://av-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Kids TV
+https://av-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Miao Mi
+https://av-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Anak² & Kartun",Nick Jr
+https://av-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Anak² & Kartun",Nickelodeon
+https://av-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",My Kidz
+http://rr.dens.tv/h/h191/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Biznet Kids
+https://bit.ly/3MIB23q
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",LEGO CHANNEL
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",LEGO TOONS
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",SuperToons TV
+https://tinyurl.com/SuperToons
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",HappyKids
+https://happykids-roku.amagi.tv/playlist404pl.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Toon Googles
+https://tinyurl.com/TiviMe-ToonGoogles
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Kids Pang TV
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=JoNYGj1bF5swTq531QQg&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",No name
+https://cdn.us195.jpnettv.live/jptv/disney_channel/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",No name
+https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",TAYO TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anak² & Kartun",Rakuten TV Family
+https://e7934a8802cc472f957e8cb4adb933e4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenFamily/playlist.m3u8
 
-group,Pluto TV Kids
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,Nick Pluto TV,https://bit.ly/3Bwp9eR
-ext,Nick Jr. Pluto TV,https://bit.ly/3QwSRoa
-ext,Baby Shark TV,https://bit.ly/3TYQJbS
-ext,Pluto TV Kids,https://bit.ly/3RUJhML
-ext,Kids Movie Club,https://bit.ly/3xbVZPs
-ext,Kartoon Channel,https://bit.ly/3B8sJdL
-ext,LEGO Kids Channel,https://bit.ly/3cZ7Cm7
-ext,Forever Kids,https://bit.ly/3TXJz7C
-ext,Totally Turtles,https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
-ext,Garfield & Friends,https://bit.ly/3xbYSja
-ext,Moonbug Kids,https://bit.ly/3TXzQOD
+#EXTINF:0 tvg-id="avi" group-title="Pluto TV Kids",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Nick Pluto TV
+https://bit.ly/3Bwp9eR
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Nick Jr. Pluto TV
+https://bit.ly/3QwSRoa
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Baby Shark TV
+https://bit.ly/3TYQJbS
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Pluto TV Kids
+https://bit.ly/3RUJhML
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Kids Movie Club
+https://bit.ly/3xbVZPs
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Kartoon Channel
+https://bit.ly/3B8sJdL
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",LEGO Kids Channel
+https://bit.ly/3cZ7Cm7
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Forever Kids
+https://bit.ly/3TXJz7C
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Totally Turtles
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Garfield & Friends
+https://bit.ly/3xbYSja
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Kids",Moonbug Kids
+https://bit.ly/3TXzQOD
 
-group,Anime & Tokusatsu
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-Animax.de,Animax,https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-ext,Aniplus,http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
-ext,RetroCrush 1,https://digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8
-ext,RetroCrush 2,https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
-ext,No name,http://123.30.146.172:21585/502/index.m3u8
-ext,Pluto TV Anime All Day,https://bit.ly/39KU8Zz
-ext,Pluto TV Anime All Ages,https://bit.ly/3HVVQ72
-ext,CONtv Anime,https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
-ext,No name,https://sub2.neetball.net/live/neet.m3u8
-ext,Naruto,https://bit.ly/3RvST11
-ext,One Piece,https://bit.ly/3RRQ2z7
-ext,TokuSHOUTsu,https://bit.ly/3L4aMRP
+#EXTINF:0 tvg-id="avi" group-title="Anime & Tokusatsu",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="Animax.de" group-title="Anime & Tokusatsu",Animax
+https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",Aniplus
+http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",RetroCrush 1
+https://digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",RetroCrush 2
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",No name
+http://123.30.146.172:21585/502/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",Pluto TV Anime All Day
+https://bit.ly/39KU8Zz
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",Pluto TV Anime All Ages
+https://bit.ly/3HVVQ72
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",CONtv Anime
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",No name
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",Naruto
+https://bit.ly/3RvST11
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",One Piece
+https://bit.ly/3RRQ2z7
+#EXTINF:0 tvg-id="ext" group-title="Anime & Tokusatsu",TokuSHOUTsu
+https://bit.ly/3L4aMRP
 
-group,Sports
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,beIN Sports 1 Indonesia,https://av-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-ext,beIN Sports 3 Indonesia,https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-ext,SPOTV,https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-ext,SPOTV 2,https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-ext,MNC Sports 1,https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-ext,MNC Sports 2,https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-ext,MNC Sports 3,https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-futbol,Soccer Channel,https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-FightSports.svn,Fight Sports,https://av-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-ext,TVRI Sport,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-ext,SPOTV,https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1647684965~exp=9007200902425956~acl=/99545824f
-ext,SPOTV 2,https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
-FightSports.svn,Fight Sports,http://rr1.dens.tv/h/h05/index.m3u8
-TennisChannel.us,Tennis Channel,https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-Eurosport1.uk,Eurosport,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0 tvg-id="avi" group-title="Sports",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 1 Indonesia
+https://av-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 3 Indonesia
+https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",SPOTV
+https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",SPOTV 2
+https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",MNC Sports 1
+https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",MNC Sports 2
+https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",MNC Sports 3
+https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:0 tvg-id="futbol" group-title="Sports",Soccer Channel
+https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:0 tvg-id="FightSports.svn" group-title="Sports",Fight Sports
+https://av-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVRI Sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1647684965~exp=9007200902425956~acl=/99545824f
+#EXTINF:0 tvg-id="ext" group-title="Sports",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
+#EXTINF:0 tvg-id="FightSports.svn" group-title="Sports",Fight Sports
+http://rr1.dens.tv/h/h05/index.m3u8
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Sports",Tennis Channel
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Sports",Eurosport
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-group,Sports 2
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,Bein Sports Xtra Pluto TV,https://bit.ly/3t7HM45
-ext,Bellator MMA,https://bit.ly/3O4uBZV
-ext,Glory Kickboxing,https://bit.ly/3GCBoqY
-Fightnetwork.gr,Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-Fightbox.eu,FIGHTBOX,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-ext,Motorvision TV HD,http://rr.dens.tv/h/h09/index.m3u8
-ext,Stadium,https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-ext,IMPACT! Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-ext,Hard Knocks,https://bit.ly/3LfNBUM
-ext,MMA TV,https://bit.ly/3eXziZe
-FreeSports.uk,FreeSports,https://tinyurl.com/TiviMe-FreeSports
-ext,Major League Soccer,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,Billiard TV,https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-ext,World Billiards TV,https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=7&ads.device_lmt=0&ads.device_type=web&ads.device_year=2019&ads.env=prod&ads.gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.rtv_content_id=3694&ads.rtvid=271858&ads.streaming_id=462725b2-c58b-41a5-aaed-7a162796bb47&ads.user_type=visitor&ads.wurl_channel=967
-ext,XFC TV,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
-ext,PFL MMA,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,Pluto TV Sports,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,PGA Tour,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,World Poker Tour,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-MAVTV.us,MAVTV,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,MLB,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="avi" group-title="Sports 2",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",Bein Sports Xtra Pluto TV
+https://bit.ly/3t7HM45
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",Bellator MMA
+https://bit.ly/3O4uBZV
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",Glory Kickboxing
+https://bit.ly/3GCBoqY
+#EXTINF:0 tvg-id="Fightnetwork.gr" group-title="Sports 2",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:0 tvg-id="Fightbox.eu" group-title="Sports 2",FIGHTBOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",Motorvision TV HD
+http://rr.dens.tv/h/h09/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",Stadium
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",Hard Knocks
+https://bit.ly/3LfNBUM
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",MMA TV
+https://bit.ly/3eXziZe
+#EXTINF:0 tvg-id="FreeSports.uk" group-title="Sports 2",FreeSports
+https://tinyurl.com/TiviMe-FreeSports
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",Major League Soccer
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.content_classification=7&ads.device_lmt=0&ads.device_type=web&ads.device_year=2019&ads.env=prod&ads.gdpr_consent=CPXuQIAPXuQIAADABBENCLCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgyAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAigAogBQQAACDIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=15bdae09-93b6-4a7f-8900-6c50ab2b3c1d&ads.rtv_content_id=3694&ads.rtvid=271858&ads.streaming_id=462725b2-c58b-41a5-aaed-7a162796bb47&ads.user_type=visitor&ads.wurl_channel=967
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",XFC TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",PFL MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",Pluto TV Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",PGA Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="MAVTV.us" group-title="Sports 2",MAVTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Sports 2",MLB
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-group,Musik
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,Music TV,https://av-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-Now70s.uk,Now 70s,https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-NOW80s.uk,Now 80s,https://bit.ly/3S2ZXT7
-ext,Now 90s,https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-ext,MTV Movie Hits,https://bit.ly/3etlpS6
-ext,MTV RockZone,https://bit.ly/3RRSwO6
-MTVMusic.eu,MTV Music,https://bit.ly/3RzzKey
-ext,MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-ext,MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-ext,MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV.uk,MTV,https://bit.ly/3HMG7qJ
-ext,MTV Love Music,https://bit.ly/3TXAifG
-ext,Yo! MTV,https://bit.ly/3d5VfVm
-ext,MTV Unplugged,https://bit.ly/3DczYE3
-MTV90s.pl,MTV 90s,http://85.17.17.249/mtv_rocks/index.m3u8
-ext,No name,http://38.143.137.221:8000/LA49/index.m3u8
-ext,No name,http://38.143.137.221:8000/LA48/index.m3u8
-ext,No name,http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
-ext,MTV Hits France (Not 24/7),http://190.2.155.162:8080/mtvhit/mpegts
-NickMusic.nl,Nick Music,http://85.17.17.249/MTV_MUSIC/index.m3u8
-ext,CMT Music,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-4Music.uk,4Music,https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-CMC.hr,CMC,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-ext,No name,https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
-ext,No name,https://17c9fa11ce65424ab3e7e06d576b7eb8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s-1/playlist.m3u8
-ext,Live Music Replay,https://bit.ly/3L4Brhm
-ext,Vevo '70s,https://bit.ly/3OkyHxq
-ext,Vevo '80s,https://bit.ly/3OhWrCj
-ext,Vevo '90s,https://bit.ly/3GS5WFz
-ext,Vevo '90s & '00s,https://tinyurl.com/TiviMe-Vevo90s00s
-ext,Vevo 2K,https://bit.ly/3NkcUoQ
-ext,Vevo Retro Rock,https://bit.ly/3GFqbpv
-ext,Vevo Pop,https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-ext,Vevo R&B,https://bit.ly/3RPleyX
-ext,Vevo True School Hip-Hop,https://bit.ly/3AYTTDE
-ext,Vevo Reggaeton & Trap,https://bit.ly/3Ry03Si
-ext,Vevo Latino,https://bit.ly/3DdDrlO
-ext,Vevo Country,https://bit.ly/3BDpT1T
-VH1Classic.eu,VH1 Classic,https://bit.ly/3PTpq0A
-ext,New KPop,https://tinyurl.com/TiviMe-NewKPop
-ext,No name,https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-ext,Stingray Karaoke,https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-ext,Stingray Rock Alternative,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-ext,Stingray Classic Rock,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
-ext,The Edge,https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-TraceUrban.uk,Trace Urban,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-XITE.nl,XITE,https://xite-samsung-de.amagi.tv/playlist.m3u8
-ext,XITE Hits,https://tinyurl.com/TiviMe-XiteHits
-ext,XITE 80s Flashback,https://tinyurl.com/XITE80s
-ext,XITE 90s Throwback,https://tinyurl.com/XITE90ss
-ext,XITE Rock On,https://tinyurl.com/XiteRock
-ext,XITE Just Chill,https://tinyurl.com/XiteJTCL
-ext,Stingray Flashback 70s,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
-ext,Stingray Remember The '80s,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0
-ext,Stingray Nothin' But 90s,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
-ext,Stingray  Greatest Hits,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
-ext,Stingray Hit List,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
+#EXTINF:0 tvg-id="avi" group-title="Musik",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="Musik",Music TV
+https://av-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF:0 tvg-id="Now70s.uk" group-title="Musik",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="NOW80s.uk" group-title="Musik",Now 80s
+https://bit.ly/3S2ZXT7
+#EXTINF:0 tvg-id="ext" group-title="Musik",Now 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",MTV Movie Hits
+https://bit.ly/3etlpS6
+#EXTINF:0 tvg-id="ext" group-title="Musik",MTV RockZone
+https://bit.ly/3RRSwO6
+#EXTINF:0 tvg-id="MTVMusic.eu" group-title="Musik",MTV Music
+https://bit.ly/3RzzKey
+#EXTINF:0 tvg-id="ext" group-title="Musik",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:0 tvg-id="MTV.uk" group-title="Musik",MTV
+https://bit.ly/3HMG7qJ
+#EXTINF:0 tvg-id="ext" group-title="Musik",MTV Love Music
+https://bit.ly/3TXAifG
+#EXTINF:0 tvg-id="ext" group-title="Musik",Yo! MTV
+https://bit.ly/3d5VfVm
+#EXTINF:0 tvg-id="ext" group-title="Musik",MTV Unplugged
+https://bit.ly/3DczYE3
+#EXTINF:0 tvg-id="MTV90s.pl" group-title="Musik",MTV 90s
+http://85.17.17.249/mtv_rocks/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",No name
+http://38.143.137.221:8000/LA49/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",No name
+http://38.143.137.221:8000/LA48/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",No name
+http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",MTV Hits France (Not 24/7)
+http://190.2.155.162:8080/mtvhit/mpegts
+#EXTINF:0 tvg-id="NickMusic.nl" group-title="Musik",Nick Music
+http://85.17.17.249/MTV_MUSIC/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",CMT Music
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:0 tvg-id="4Music.uk" group-title="Musik",4Music
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:0 tvg-id="CMC.hr" group-title="Musik",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",No name
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",No name
+https://17c9fa11ce65424ab3e7e06d576b7eb8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s-1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",Live Music Replay
+https://bit.ly/3L4Brhm
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo '70s
+https://bit.ly/3OkyHxq
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo '80s
+https://bit.ly/3OhWrCj
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo '90s
+https://bit.ly/3GS5WFz
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo '90s & '00s
+https://tinyurl.com/TiviMe-Vevo90s00s
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo 2K
+https://bit.ly/3NkcUoQ
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo Retro Rock
+https://bit.ly/3GFqbpv
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo Pop
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo R&B
+https://bit.ly/3RPleyX
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo True School Hip-Hop
+https://bit.ly/3AYTTDE
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo Reggaeton & Trap
+https://bit.ly/3Ry03Si
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo Latino
+https://bit.ly/3DdDrlO
+#EXTINF:0 tvg-id="ext" group-title="Musik",Vevo Country
+https://bit.ly/3BDpT1T
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="Musik",VH1 Classic
+https://bit.ly/3PTpq0A
+#EXTINF:0 tvg-id="ext" group-title="Musik",New KPop
+https://tinyurl.com/TiviMe-NewKPop
+#EXTINF:0 tvg-id="ext" group-title="Musik",No name
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",Stingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",Stingray Classic Rock
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",The Edge
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:0 tvg-id="TraceUrban.uk" group-title="Musik",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="XITE.nl" group-title="Musik",XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musik",XITE Hits
+https://tinyurl.com/TiviMe-XiteHits
+#EXTINF:0 tvg-id="ext" group-title="Musik",XITE 80s Flashback
+https://tinyurl.com/XITE80s
+#EXTINF:0 tvg-id="ext" group-title="Musik",XITE 90s Throwback
+https://tinyurl.com/XITE90ss
+#EXTINF:0 tvg-id="ext" group-title="Musik",XITE Rock On
+https://tinyurl.com/XiteRock
+#EXTINF:0 tvg-id="ext" group-title="Musik",XITE Just Chill
+https://tinyurl.com/XiteJTCL
+#EXTINF:0 tvg-id="ext" group-title="Musik",Stingray Flashback 70s
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
+#EXTINF:0 tvg-id="ext" group-title="Musik",Stingray Remember The '80s
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0
+#EXTINF:0 tvg-id="ext" group-title="Musik",Stingray Nothin' But 90s
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
+#EXTINF:0 tvg-id="ext" group-title="Musik",Stingray  Greatest Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
+#EXTINF:0 tvg-id="ext" group-title="Musik",Stingray Hit List
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
 
-group,Movies & Hiburan 2
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,CJ ENM,https://tinyurl.com/TiviMe-CJENM
-ext,NEW KMOVIES,https://tinyurl.com/TiviMe-NewKMovies
-ext,MovieSphere (UK),https://tinyurl.com/MovieSphere
-ext,MovieSphere (US),https://bit.ly/3Re2MPY
-ext,The Walking Dead Universe,https://tinyurl.com/TheWDU
-ext,The Walking Dead Universe 2,https://bit.ly/3BPlHuw
-ext,AMC Thrillers,https://bit.ly/3DVMI2j
-ext,Stories by AMC,https://bit.ly/3SRLf1h
-ext,24 Hour Free Movies,https://bit.ly/3dHN7dQ
-ext,Galxy TV,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
-ext,IFC Films Picks,https://bit.ly/3LLOMf4
-ext,AsianCrush,https://bit.ly/3DVAp5P
-ext,Dark Matter TV,https://amg00434-tricoasttvllc-darkmatter-plex-a0u9r.amagi.tv/playlist/amg00434-tricoasttvllc-darkmatter-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=JoNYGj1bF5swTq531QQg&channelId=5eea605674085f0040ddc7a6&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=JoNYGj1bF5swTq531QQg&ads.channelId=5eea605674085f0040ddc7a6
-ext,Watch it SCREAM,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
-ext,KBS Drama,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-ext,MyTime Movie Network,https://appletree-mytimeuk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-uk-rakuten/CDN/master.m3u8
-ext,Gravitas Movies,https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/playlist.m3u8?ads.wurl_channel=154&ads.wurl_name=GravitasMovies&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=b9tDdN13sTu4tKHzb-xN&ads.plex_id=5efe1de7e0b3f5003f5d9f8e&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-ext,Hi-Yah,https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
-ext,Mutant X,https://linear-238.frequency.stream/dist/localnow/238/hls/master/playlist.m3u8
-ext,New Movies,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0 tvg-id="avi" group-title="Movies & Hiburan 2",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",CJ ENM
+https://tinyurl.com/TiviMe-CJENM
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",NEW KMOVIES
+https://tinyurl.com/TiviMe-NewKMovies
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",MovieSphere (UK)
+https://tinyurl.com/MovieSphere
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",MovieSphere (US)
+https://bit.ly/3Re2MPY
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",The Walking Dead Universe
+https://tinyurl.com/TheWDU
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",The Walking Dead Universe 2
+https://bit.ly/3BPlHuw
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",AMC Thrillers
+https://bit.ly/3DVMI2j
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",Stories by AMC
+https://bit.ly/3SRLf1h
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",24 Hour Free Movies
+https://bit.ly/3dHN7dQ
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",Galxy TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",IFC Films Picks
+https://bit.ly/3LLOMf4
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",AsianCrush
+https://bit.ly/3DVAp5P
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",Dark Matter TV
+https://amg00434-tricoasttvllc-darkmatter-plex-a0u9r.amagi.tv/playlist/amg00434-tricoasttvllc-darkmatter-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=JoNYGj1bF5swTq531QQg&channelId=5eea605674085f0040ddc7a6&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=JoNYGj1bF5swTq531QQg&ads.channelId=5eea605674085f0040ddc7a6
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",Watch it SCREAM
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=ngiGKoEb44-shV7k85SB
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",KBS Drama
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",MyTime Movie Network
+https://appletree-mytimeuk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-uk-rakuten/CDN/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",Gravitas Movies
+https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/playlist.m3u8?ads.wurl_channel=154&ads.wurl_name=GravitasMovies&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=b9tDdN13sTu4tKHzb-xN&ads.plex_id=5efe1de7e0b3f5003f5d9f8e&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",Hi-Yah
+https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",Mutant X
+https://linear-238.frequency.stream/dist/localnow/238/hls/master/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies & Hiburan 2",New Movies
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-group,Rakuten TV Movies
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,Rakuten TV Action Movies,https://8f72400044c842498436abd352ba487b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenActionMovies/playlist.m3u8
-ext,Rakuten TV British Films,https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/playlist.m3u8
-ext,Rakuten TV Comedy Movies,https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
-ext,Rakuten TV Drama Movies,https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/playlist.m3u8
-ext,Rakuten TV Top Movies,https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/playlist.m3u8
-ext,Rakuten TV Romance Movies,https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/playlist.m3u8
-ext,Rakuten TV Thrillers Movies,https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Rakuten TV Movies",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="Rakuten TV Movies",Rakuten TV Action Movies
+https://8f72400044c842498436abd352ba487b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenActionMovies/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rakuten TV Movies",Rakuten TV British Films
+https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rakuten TV Movies",Rakuten TV Comedy Movies
+https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rakuten TV Movies",Rakuten TV Drama Movies
+https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rakuten TV Movies",Rakuten TV Top Movies
+https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_TopFree/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rakuten TV Movies",Rakuten TV Romance Movies
+https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rakuten TV Movies",Rakuten TV Thrillers Movies
+https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
 
-group,Pluto TV Movies & Series
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,Pluto TV Action,https://bit.ly/39SoJ7h
-ext,Pluto TV Horror,https://bit.ly/3NjRho7
-ext,Flicks of Fury,https://bit.ly/3A0onWR
-ext,The Asylum,https://bit.ly/3zZ96pm
-ext,Pluto TV Comedy,https://bit.ly/3HPTypV
-ext,Pluto TV Romance,https://bit.ly/3OHnk2p
-ext,Pluto TV Thrillers,https://bit.ly/3bpnWvh
-ext,Pluto TV Drama,https://bit.ly/3tZ6cNr
-ext,Pluto TV Fantastic,https://bit.ly/3u1hD7A
-ext,Pluto TV Cult Films,https://bit.ly/3OGm0wr
-ext,Pluto TV Terror,https://bit.ly/3xOTa6o
-ext,Pluto TV Reaction,https://bit.ly/3eDoZJp
-ext,Pluto TV Staff Picks,https://bit.ly/3BHXCap
-ext,Pluto TV Crime Movies,https://bit.ly/3qAyqfs
-ext,Pluto TV Love Stories,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,Pluto TV Suspense,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,Pluto TV Sci-Fi,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,70s Cinema,https://bit.ly/3QJvR5l
-ext,80s Rewind,https://bit.ly/3xnk85O
-ext,90s Throwback,https://bit.ly/3RLGaY7
-ext,OOs Replay,https://bit.ly/3dfll8q
-ext,Paramount Movie Channel,https://bit.ly/3QD0uKW
-ext,Paramount+ Picks,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,TV Land Drama,https://bit.ly/3raaoII
-ext,Classic TV Drama,https://bit.ly/3BqFwZc
-ext,Hallmark Movies & More,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,SHOWTIME Select,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,Fuse Beat,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176fddda3a6160007f60433/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,Serial TV Mission: Impossible,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-ext,More TV Drama,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="avi" group-title="Pluto TV Movies & Series",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Action
+https://bit.ly/39SoJ7h
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Horror
+https://bit.ly/3NjRho7
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Flicks of Fury
+https://bit.ly/3A0onWR
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",The Asylum
+https://bit.ly/3zZ96pm
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Comedy
+https://bit.ly/3HPTypV
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Romance
+https://bit.ly/3OHnk2p
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Thrillers
+https://bit.ly/3bpnWvh
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Drama
+https://bit.ly/3tZ6cNr
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Fantastic
+https://bit.ly/3u1hD7A
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Cult Films
+https://bit.ly/3OGm0wr
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Terror
+https://bit.ly/3xOTa6o
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Reaction
+https://bit.ly/3eDoZJp
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Staff Picks
+https://bit.ly/3BHXCap
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Crime Movies
+https://bit.ly/3qAyqfs
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Love Stories
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Suspense
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Pluto TV Sci-Fi
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",70s Cinema
+https://bit.ly/3QJvR5l
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",80s Rewind
+https://bit.ly/3xnk85O
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",90s Throwback
+https://bit.ly/3RLGaY7
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",OOs Replay
+https://bit.ly/3dfll8q
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Paramount Movie Channel
+https://bit.ly/3QD0uKW
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Paramount+ Picks
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",TV Land Drama
+https://bit.ly/3raaoII
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Classic TV Drama
+https://bit.ly/3BqFwZc
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Hallmark Movies & More
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",SHOWTIME Select
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Fuse Beat
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176fddda3a6160007f60433/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",Serial TV Mission: Impossible
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Movies & Series",More TV Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-group,Pluto TV Hiburan
-avi,Update Playlist Terbaru,https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
-ext,Always Funny Videos,https://tinyurl.com/AMFVSS
-ext,FailArmy,https://tinyurl.com/FailsArmys
-ext,Just For Laughs,https://bit.ly/3yhvTLT
-ext,Pimp My Ride,https://bit.ly/3Rr0nSE
-ext,Pranks,https://bit.ly/3RvBaXo
-ext,Fear Factor,https://bit.ly/3qoXZQA
-ext,Pluto TV Vs.,https://bit.ly/3d1NsYt
+#EXTINF:0 tvg-id="avi" group-title="Pluto TV Hiburan",Update Playlist Terbaru
+https://dl.dropboxusercontent.com/s/gkied0nmj8aa2gm/InShot_20221108_103948919.mp4?dl=0
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Hiburan",Always Funny Videos
+https://tinyurl.com/AMFVSS
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Hiburan",FailArmy
+https://tinyurl.com/FailsArmys
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Hiburan",Just For Laughs
+https://bit.ly/3yhvTLT
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Hiburan",Pimp My Ride
+https://bit.ly/3Rr0nSE
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Hiburan",Pranks
+https://bit.ly/3RvBaXo
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Hiburan",Fear Factor
+https://bit.ly/3qoXZQA
+#EXTINF:0 tvg-id="ext" group-title="Pluto TV Hiburan",Pluto TV Vs.
+https://bit.ly/3d1NsYt
